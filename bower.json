@@ -1,0 +1,13 @@
+{
+    "name": "Pulse",
+    "version": "5.0.0",
+    "main": "js/app.js",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}

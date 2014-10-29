@@ -1,0 +1,16 @@
+{
+    "name": "Pulse",
+    "version": "5.0.0", 
+    "description": "Pulse - Listen your heart",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "diego",
+    "contributors": [],
+    "dependencies": [],
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BioSCADA/pulse.git"
+    }
+}
+
+  
