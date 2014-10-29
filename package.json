@@ -4,6 +4,7 @@
     "description": "Pulse - Listen your heart",
     "keywords": ["util", "functional", "server", "client", "browser"],
     "author": "diego",
+    "readme": "./README.md",
     "contributors": [],
     "dependencies": [],
     "license": "MIT",
